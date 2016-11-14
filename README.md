@@ -2,8 +2,6 @@
 
 Upload this as a wordpress theme and you should have a sidebar on the Homepage of the great [Baskerville Wordpress theme](https://wordpress.org/themes/baskerville/).
 
-I am not the author of Baskerville, nor am I in any way affiliated with the theme, or it's author. I just created a child-theme to include a Sidebar on the Homepage.
-
 The sidebar only shows up desktop when the screen width is > 1000px. If you require the sidebar on mobile then inject the following CSS into your website.
 
 ```
@@ -28,3 +26,5 @@ The sidebar only shows up desktop when the screen width is > 1000px. If you requ
 }
 /* END CSS */
 ```
+
+I am not the author of Baskerville, nor am I in any way affiliated with the theme, or it's author. I just created a child-theme to include a Sidebar on the Homepage.
