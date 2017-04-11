@@ -1,4 +1,4 @@
-*Baskerville Child Theme - Add Sidebar to Homepage
+# Baskerville Child Theme - Add Sidebar to Homepage
 
 Upload this as a wordpress theme and you should have a sidebar on the Homepage of the great [Baskerville Wordpress theme](https://wordpress.org/themes/baskerville/).
 
